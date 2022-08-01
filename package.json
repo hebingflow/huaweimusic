@@ -15,6 +15,6 @@
   },
   "dependencies": {
     "sass": "^1.54.0",
-    "parcel": "^1.12.5"
+    "parcel": "1.12.5"
   }
 }
