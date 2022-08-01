@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx parcel index.html"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +14,7 @@
     "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
-    "sass": "^1.54.0"
+    "sass": "^1.54.0",
+    "parcel": "^1.12.5"
   }
 }
